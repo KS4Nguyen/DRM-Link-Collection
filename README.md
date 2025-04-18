@@ -2,6 +2,9 @@
 
 Stay legal, stay safe. Link list to help chosing the best suited license.
 
+
+https://www.gnu.org/graphics/ichain.png
+
 License chooser
 https://chooser-beta.creativecommons.org/
 
